@@ -42,4 +42,4 @@ Colección de logos del grupo **LinuxerOS** en **Telegram**.
 
 [Void Linux](https://t.me/voidlinux_es)
 
-Y sinó también pueden visitarme para más tutoriales en mi blog de [LinuxForAllSite](https://linuxforallsite.wordpress.com/).
+Blog oficial: [LinuxForAllSite](https://linuxforallsite.wordpress.com/).
